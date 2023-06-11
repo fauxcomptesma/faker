@@ -1,0 +1,11 @@
+total 28
+drwxrwxrwx 4 vagrant vagrant 4096 Jun 10 22:25 .
+drwxr-xr-x 8 vagrant vagrant 4096 Jun 10 14:19 ..
+drwxrwxrwx 3 vagrant vagrant 4096 Jun 10 12:50 001
+drwxrwxrwx 2 vagrant vagrant 4096 Jun 10 12:50 002
+-rw-rw-r-- 1 vagrant vagrant   39 Jun 10 20:04 7-file
+-rw-rw-r-- 1 vagrant vagrant    0 Jun 10 19:12 \*\\"Best School"\\*$?*****:)
+-rw-rw-r-- 1 vagrant vagrant    0 Jun 10 18:49 get
+-rwxrwxrwx 1 vagrant vagrant  321 Jun 10 13:23 learning.txt
+-rw-rw-r-- 1 vagrant vagrant    0 Jun 10 22:26 list
+-rw-rw-r-- 1 vagrant vagrant    8 Jun 10 12:51 smiley.txt
